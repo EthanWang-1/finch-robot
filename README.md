@@ -23,5 +23,7 @@ f1.stop();
 ## Questions
 ### What was your motivation?
 My motivation for doing this project was to create one of the arcane games that we used to see in our childhood. However, unlike the arcane game found in the carnivals, my arcane games is able to move around, making it harder to toss in. I wanted to mix a part of my childhood with my own creation to create something new, so my motivation for creating this project was to reminiscence my past, but simultaneously incorporating my current knowledge. 
-What did you learn?
-What makes your project stand out?
+### What did you learn?
+I learnt how to use a finch robot and java code to perform various tasks. Instead of looking at a digital product, we are able to see a more physical result. I am able to use methods in the Finch-robot library and use Tinkercad to 3D model my creation. 
+### What makes your project stand out?
+My robot incorporates rings that require the user to toss into the beams. I feel like this is unique to the other projects that are found in the classroom, as it is a game that requires the player to toss an object, rather than a stillless attachment to the robot. 
