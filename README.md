@@ -21,7 +21,7 @@ if((int)Math.random()*2 == 1){
 f1.stop();
 ```
 ## Questions
-##### What was your motivation?
+### What was your motivation?
 My motivation for doing this project was to create one of the arcane games that we used to see in our childhood. However, unlike the arcane game found in the carnivals, my arcane games is able to move around, making it harder to toss in. I wanted to mix a part of my childhood with my own creation to create something new, so my motivation for creating this project was to reminiscence my past, but simultaneously incorporating my current knowledge. 
 What did you learn?
 What makes your project stand out?
