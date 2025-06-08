@@ -2,10 +2,11 @@
 ---
 ## Development Checklist
 
-| First Header  | Second Header |
+| Completion  | Task |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Completed | - Connecting robot to computer; download necessary software to program the robot|
+| Completed | - learning the finch library; start coding the robot to preform simple task  |
+| Completed | - Start coding robot to match the task that it was maded to complete; test the code until it reach desire product |
 
 ## Design Cycle
 
