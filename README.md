@@ -12,7 +12,9 @@
 I started out by breaking the code into more manageable pieces, such as telling the robot to go forward and stop when it reaches a wall. By breaking the code into more manageable parts, and testing each part individually, I am not only able to better understand how the robot works, but if an error or bug ever occurs, it's easier for me to fix. If the robot doesn't behave like it is supposed to, I retrace my code to see what mistakes occurred. If I am unable to locate the mistake, I will then attempt to put a print statement in my code, to see which part runs and the amount of time each part runs. I repeat this until the issue is solved. At the end, I will have multiple pieces of code that I was able to piece together to produce a final product. With a bit of tweaking and bug fixes for the final code, the code is finally completed, and the robot is able to run flawlessly. 
 
 ## Code to Highlight
-
+```
+code
+```
 ## Questions
 
 What was your motivation?
