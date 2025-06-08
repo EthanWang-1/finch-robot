@@ -13,7 +13,12 @@ I started out by breaking the code into more manageable pieces, such as telling 
 
 ## Code to Highlight
 ```
-code
+if((int)Math.random()*2 == 1){
+				f1.turn("R",90,10);
+			}else {
+				f1.turn("R",90,10);	
+			}
+			f1.stop();
 ```
 ## Questions
 
